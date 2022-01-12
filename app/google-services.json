@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "411661902578",
+    "project_id": "sociomedia-c1c1c",
+    "storage_bucket": "sociomedia-c1c1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411661902578:android:d235b39b27ac9597dce66b",
+        "android_client_info": {
+          "package_name": "com.example.sociomedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411661902578-8ft2bam39sjf1b738kjasfb40u6peeut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm9HMoO1wr3luDCtROuR-GUncJd70Ru4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411661902578-8ft2bam39sjf1b738kjasfb40u6peeut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
